@@ -1,0 +1,5 @@
+Important Points:
+
+Interfaces can have default methods with implementation from java 8 onwards.
+Interfaces can have static methods as well similar to static method of classes.
+Default methods were introduced to provide backward compatibility for old interfaces so that they can have new methods without effecting existing code.
